@@ -73,27 +73,27 @@ git push origin main
 
 ## **PREGUNTAS FRECUENTES**
 
-### **🤔 ¿Cuántas veces lo puedo completar?**
+### **🤔 ¿Cuántas veces lo puedo completar?**  
 
 ¡Todas las que quieras! No hay límite.
 
-### **😦 ¿A quién o en dónde debo entregarlo una vez resuelto?**
+### **😦 ¿A quién o en dónde debo entregarlo una vez resuelto?**  
 
 A nadie y en ningún lugar. Este material es para que puedas chequear tu mismo en qué situación te encuentras.
 
-### **🤨 ¿Qué sucede si no puedo avanzar en un ejercicio?**
+### **🤨 ¿Qué sucede si no puedo avanzar en un ejercicio?**  
 
 ¡Descuida! No tienes tiempo límite para resolverlo. Por lo que puedes investigar en internet, volver a ver las clases del Prep Course e incluso repasar las homeworks que hayas completado.
 
-### **🤓 ¿Si luego de seguir investigando no puedo avanzar con un ejercicio?**
+### **🤓 ¿Si luego de seguir investigando no puedo avanzar con un ejercicio?**  
 
 Te recordamos que en slack podrás hacer consultas.
 
-### **😲 ¿Por qué cuando ejecuto el testing la terminal dice que mi PC se quedó sin memoria?**
+### **😲 ¿Por qué cuando ejecuto el testing la terminal dice que mi PC se quedó sin memoria?**  
 
 Lo más probable es que en tu código haya un bucle infinito, por lo que deberás revisarlo y buscar una solución.
 
-### **😗 ¿Qué hay que hacer con el archivo package.json?**
+### **😗 ¿Qué hay que hacer con el archivo package.json?**  
 
 Absolutamente nada. Más adelante, cuando estés estudiando en el bootcamp aprenderás para qué sirve este archivo. Pero en este momento, no lo modifiques ni lo elimines, ya que es importante.
 
